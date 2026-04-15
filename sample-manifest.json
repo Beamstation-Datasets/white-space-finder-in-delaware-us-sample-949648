@@ -1,0 +1,12 @@
+{
+  "export_job_id": "3ab9fa18-d779-4b47-8cce-f39963c76c29",
+  "id_short": 949648,
+  "published_at": "2026-04-15T19:50:17Z",
+  "repo_name": "white-space-finder-in-delaware-us-sample-949648",
+  "sample_asset_name": "beamstation_949648_food_and_drink-us-de_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/949648/beamstation_949648_food_and_drink-us-de_SAMPLE_DIST.csv",
+  "sample_records": 1,
+  "sample_sha256": "6aa744d3e312a51d18a3b43e96cd62a847ec12b5bafb55d30c1103121a80a812",
+  "sample_size_bytes": 19641,
+  "total_records": 15
+}
