@@ -1,0 +1,22 @@
+{
+  "base_price": 995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "expansion",
+  "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Delaware that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
+  "config_name": "White Space Finder in Delaware, US",
+  "export_job_id": "3ab9fa18-d779-4b47-8cce-f39963c76c29",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 949648,
+  "location_name": "Delaware",
+  "location_type": "state",
+  "repo_name": "white-space-finder-in-delaware-us-sample-949648",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/949648/beamstation_949648_food_and_drink-us-de_SAMPLE_DIST.csv",
+  "sample_pct": 6.67,
+  "sample_records": 1,
+  "sample_sha256": "6aa744d3e312a51d18a3b43e96cd62a847ec12b5bafb55d30c1103121a80a812",
+  "sample_size_bytes": 19641,
+  "total_records": 15,
+  "updated_at": "2026-04-07T17:51:37.666448+00:00"
+}
