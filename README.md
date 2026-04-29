@@ -9,9 +9,9 @@
 | Dataset ID | `949648` |
 | Location | Delaware |
 | Category | Restaurants |
-| Full dataset size | 26 records |
-| Free sample size | 2 records (7.69%) |
-| Last export | 2026-04-22T02:52:35.720543+00:00 |
+| Full dataset size | 25 records |
+| Free sample size | 2 records (8.0%) |
+| Last export | 2026-04-29T05:44:19.062467+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-delaware-us-sample-949648/releases/download/sample-latest/beamstation_949648_food_and_drink-us-de_SAMPLE_DIST.csv) |
 
 ## What is in this sample
